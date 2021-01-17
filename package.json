@@ -10,7 +10,13 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "bootstrap-vue": "^2.21.2",
+    "datatables.net": "^1.10.23",
+    "datatables.net-bs4": "^1.10.23",
+    "datatables.net-dt": "^1.10.23",
+    "vue-axios": "^3.2.2",
+    "vue-router": "^3.4.9",
+    "vuelidate": "^0.7.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
@@ -20,6 +26,19 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
-    "vue-template-compiler": "^2.6.11"
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "axios": "^0.21",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.2",
+    "laravel-mix": "^6.0.6",
+    "lodash": "^4.17.19",
+    "popper.js": "^1.12",
+    "postcss": "^8.1.14",
+    "resolve-url-loader": "^2.3.1",
+    "sass": "^1.20.1",
+    "sass-loader": "^8.0.0",
+    "vue": "^2.6.12",
+    "vue-loader": "^15.9.6",
+    "vue-template-compiler": "^2.6.10"
   }
 }
